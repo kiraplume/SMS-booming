@@ -1,6 +1,6 @@
 from smsbomber import Bomber
 
-num = input("请输入手机号:")
+num = input("请输入手机号:13098156922")
 
 Bomber(num).func0()
 Bomber(num).func1()
